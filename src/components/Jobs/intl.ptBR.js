@@ -4,10 +4,10 @@ const jobs_ptBR = {
   title: 'Work experience',
   [LTDA.VNATOR]: {
     company: 'VNATOR',
-    employ: 'Software Crafter',
-    date: 'Início em Novembro de 2019 ate hoje',
+    employ: 'Arquitetura, Analise e Desenvolvimento de Software',
+    date: 'Início em Novembro de 2018 ate hoje',
     description:
-      'Análise, Arquitetura, Desenvolvimento e gestao de sistemas web especialistas com foco em cloud computing.',
+      'Desenvolvimento de uma plataforma de ecommerce para comercialização de arquivos digitais, utilizando a nuvem da AWS, com serviço lambda em node, expondo um API Graphql utilizando Apollo, Aurora RDS PostgreSQL, CloudFormation para gestão e controle dos serviços bem como seus devidos parâmetros, Cognito e IAM para controle de acesso a plataforma, AWS S3 para armazenamento de forma dinâmica dos conteúdos subidos para a plataforma, disponibilização do SPA escrito em React no CDN da AWS, AWS EventBridge para controle de algumas ações através de eventos, lambda layer com binários relevantes para algumas funções lambda. Prestação de serviço em desenvolvimento de software e manutenção de sistemas.',
   },
   [LTDA.CINQ]: {
     company: 'CINQ',
