@@ -11,7 +11,7 @@ const header_ptBR = {
   bio: {
     title: 'Bio',
     paragraph:
-      'Olá sou um programador de origem humilde vindo do interior, me interessei por programação na faculdade no ano de 2008, desde então venho trabalhando para atingir meus objetivos, e sinceramente não tenho fracassado. Atualmente estou focado em me tornar um programador generalista além da especialidade que já possuo com frontend e programação funcional, busco mais conhecimento técnico em linguagens como C e Rust, gestão de projetos e desenvolvimento de Produtos escaláveis. Tenho como objetivo me tornar um profissional indispensável em qualquer produto que possa ser replicado e vise alcançar o cliente de maneira flexível e ilimitada.',
+      'Sou um desenvolvedor generalista/especialista com perfil Pi Shaped, minhas especialidades são Javascript e Programação funcional, com generalidades em desenvolvimento backend Python, Java, Elixir E Rust. Atualmente estou dedicando meus estudos à arquitetura de aplicações cloud com o intuito de aperfeiçoar as habilidades que desenvolvi ao longo do tempo como desenvolvedor que já atuou em todos os aspectos do desenvolvimento e manutenção de uma aplicação web. Comecei a programar em 2007 e acabei entrando na faculdade de sistemas de informação em 2008, desde então venho trabalhando para atingir meus objetivos, e sinceramente não tenho fracassado. As linguagens de programação que venho acompanhando atualmente são NodeJS(Typescript <3) Rust e Elixir com objetivo me tornar um profissional indispensável em qualquer produto baseado em computação distribuída.',
   },
 };
 
