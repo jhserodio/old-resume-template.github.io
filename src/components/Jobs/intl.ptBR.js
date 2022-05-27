@@ -2,12 +2,19 @@ import { LTDA } from '../../constants/ltda';
 
 const jobs_ptBR = {
   title: 'Work experience',
+  [LTDA.PEDE_PRONTO]: {
+    company: 'PEDE PRONTO',
+    employ: 'Software Engineer Senior',
+    date: 'Início em junho de 2020 ate mail de 2022',
+    description:
+      'Análise, Arquitetura e Desenvolvimento da aplicação pede pronto. Atuei no desenvolvimento e manutenabilidade da solução e participei da migração da arquitetura de monolito para pulverização em micro-serviços, implementei o client web focado em B2C (Business to Busines), e o serviço de onboarding para entrada de novos clientes no domínio de onBoarding do backend e frontend no B2B (Business to Business)',
+  },
   [LTDA.VNATOR]: {
     company: 'VNATOR',
-    employ: 'Arquitetura, Analise e Desenvolvimento de Software',
+    employ: 'Software Archtect',
     date: 'Início em Novembro de 2018 ate hoje',
     description:
-      'Desenvolvimento de uma plataforma de ecommerce para comercialização de arquivos digitais, utilizando a nuvem da AWS, com serviço lambda em node, expondo um API Graphql utilizando Apollo, Aurora RDS PostgreSQL, CloudFormation para gestão e controle dos serviços bem como seus devidos parâmetros, Cognito e IAM para controle de acesso a plataforma, AWS S3 para armazenamento de forma dinâmica dos conteúdos subidos para a plataforma, disponibilização do SPA escrito em React no CDN da AWS, AWS EventBridge para controle de algumas ações através de eventos, lambda layer com binários relevantes para algumas funções lambda. Prestação de serviço em desenvolvimento de software e manutenção de sistemas.',
+      'Análise, arquitetura e implementação de uma plataforma de ecommerce para comercialização de arquivos digitais, utilizando a cloud da AWS, com serviço lambda em node, expondo um API Graphql utilizando Apollo Server, Aurora RDS PostgreSQL, CloudFormation para gestão e controle dos serviços bem como seus devidos parâmetros, Cognito e IAM para controle de acesso a plataforma, AWS S3 para armazenamento de forma dinâmica dos conteúdos da plataforma, desenvlvimento de SPA React, aplicação AWS EventBridge para gestao do fluxo de eventos, desenvolvimento de lambda layers para aplicação de dependencias e estratégia de isolamento da camada do ORM.',
   },
   [LTDA.CINQ]: {
     company: 'CINQ',
@@ -15,6 +22,13 @@ const jobs_ptBR = {
     date: 'Entre Fevereiro de 2020 a maio de 2020',
     description:
       'Desenvolvedoar Frontend e Tech leader do produto Ticket Shop v2 da Ticket do Brasil - Endered.',
+  },
+  [LTDA.IESDE]: {
+    company: 'IESDE',
+    employ: 'Software Engineer Senior',
+    date: 'Entre setembro de 2019 a junho de 2020',
+    description:
+      'Análise, arquitetura e consultoria aplicados em projeto de migração de monolito para microserviços baseado em multi tenancy. Com serviços em step functions com AWS lambda, gestão de streaming com Kineses e controle de Autenticação/Autorização com AWS cognito e identity provider. Client em React com Typescript e controle de estado em Redux e backend NodeJs.',
   },
   [LTDA.AGROTIS]: {
     company: 'Agrotis',
