@@ -25,7 +25,7 @@ const Jobs = () => {
               {formatMessage({
                 id: `jobs.${company}.employ`,
               })}
-              ,
+              {`, `}
               <span className={style.date}>
                 {formatMessage({
                   id: `jobs.${company}.date`,

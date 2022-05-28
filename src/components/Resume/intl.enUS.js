@@ -1,18 +1,18 @@
 const resume_enUS = {
   analyse: {
-    title: 'Análise',
+    title: 'Analisys',
     description:
-      'Entender a regra do negócio e seu público alvo para apresentar a melhor solução para o desenvolvimento de um produto.',
+      'Understand the business rule and your target audience to present the best solution for the development of the product. Mapping the stack from the infrastructure to the frontend, understanding all cases of exceptions that may cause some service to fail and identifying the strategies already adopted and those that should be for fault tolerance management and disaster control.',
   },
   architecture: {
     title: 'Arquitetura',
     description:
-      'Desenhar a aplicação buscando a solução tecnologica e architectural ideal para alcançar suas metas e manutenabilidade posterior.',
+      'Application Design with the ideal technological solution and architecture to go live and maintainability. I design the product and write the documents application necessary with the processes, with tools for observability and lead collection for data-driven decisions.',
   },
   development: {
-    title: 'Desenvolvimento',
+    title: 'Development',
     description:
-      'Desenvolvimento tecnologicamente focado na solucao ideal para o produto, auto gerenciavel, transparente e com processos automatizados (devOps s2).',
+      'Development with the good practices and following processes that maintain the productivity and health of the application. Test-Driven Development (TDD) and functional programming are common practices that guide my code, applying automated processes and integrations with management tools for seeking greater productivity and transparency for product management (devOps s2).',
   },
 };
 

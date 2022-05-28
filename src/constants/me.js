@@ -5,6 +5,7 @@ const ME = Object.freeze({
   INSTAGRAM: 'INSTAGRAM',
   MEDIUM: 'MEDIUM',
   LINKEDIN: 'LINKEDIN',
+  SHAPED: 'SHAPED'
 });
 
 export { ME };

@@ -5,7 +5,7 @@ const jobs_ptBR = {
   [LTDA.PEDE_PRONTO]: {
     company: 'PEDE PRONTO',
     employ: 'Software Engineer Senior',
-    date: 'Início em junho de 2020 ate mail de 2022',
+    date: 'Início em junho de 2020 ate maio de 2022',
     description:
       'Análise, Arquitetura e Desenvolvimento da aplicação pede pronto. Atuei no desenvolvimento e manutenabilidade da solução e participei da migração da arquitetura de monolito para pulverização em micro-serviços, implementei o client web focado em B2C (Business to Busines), e o serviço de onboarding para entrada de novos clientes no domínio de onBoarding do backend e frontend no B2B (Business to Business)',
   },
@@ -21,7 +21,7 @@ const jobs_ptBR = {
     employ: 'Software Engineer Senior',
     date: 'Entre Fevereiro de 2020 a maio de 2020',
     description:
-      'Desenvolvedoar Frontend e Tech leader do produto Ticket Shop v2 da Ticket do Brasil - Endered.',
+      'Desenvolvedor Frontend e Tech leader do produto Ticket Shop v2 da Ticket do Brasil - Endered.',
   },
   [LTDA.IESDE]: {
     company: 'IESDE',

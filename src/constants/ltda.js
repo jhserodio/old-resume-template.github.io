@@ -5,7 +5,6 @@ const LTDA = Object.freeze({
   IESDE: 'IESDE',
   AGROTIS: 'AGROTIS',
   POLVO: 'POLVO',
-  NAYP: 'NAYP',
   FREELANCER: 'FREELANCER',
 });
 

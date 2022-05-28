@@ -2,16 +2,17 @@ const header_enUS = {
   name: 'Joao Henrique Serodio',
   info: {
     email: 'joao.serodio@vnator.com',
-    location: 'Laranjal - PR',
+    location: 'Laranjal City in State of Parana - Brazil',
     formation:
-      '<strong>Formacao:</strong> Sistemas de informação - UCP (Pitanga - PR) - 2008/2012',
+      '<strong>Academic Education:</strong> Information System College at UCP (Brazil in State of Parana) - 2008/2012',
     employ:
-      '<strong>Ocupacao:</strong> Software Crafter at <company>VNATOR</company>',
+      '<strong>Employ:</strong> Software Crafter at <company>VNATOR</company>',
   },
   bio: {
     title: 'Bio',
     paragraph:
-      'Sou um desenvolvedor generalista/especialista com perfil Pi Shaped, minhas especialidades são Javascript e Programação funcional, com generalidades em desenvolvimento backend Python, Java, Elixir E Rust. Atualmente estou dedicando meus estudos à arquitetura de aplicações cloud com o intuito de aperfeiçoar as habilidades que desenvolvi ao longo do tempo como desenvolvedor que já atuou em todos os aspectos do desenvolvimento e manutenção de uma aplicação web. Comecei a programar em 2007 e acabei entrando na faculdade de sistemas de informação em 2008, desde então venho trabalhando para atingir meus objetivos, e sinceramente não tenho fracassado. As linguagens de programação que venho acompanhando atualmente são NodeJS(Typescript <3) Rust e Elixir com objetivo me tornar um profissional indispensável em qualquer produto baseado em computação distribuída.',
+      `I'm a software developer generalist/specialist <shaped>(Pi Shaped professional Profile)</shaped>, with hard knowledges in Javascript and Functional Progamming, and softw skills in backend python, Java, Elixir and Rust. Nowasday i am study system architecture
+      for cloud-native applications with the intention of to refine my skills like as a full stack developer.  In 2007 i had my first contact with development with rpg maker, after this in 2008 i started at the Information System College (UCP), since then i work and study web development with frontend and backend in most products. My favorite languages today are Rust, elixir and Typescript (deno is lovely), and i want become a indispensable employed for any cloud-native product`,
   },
 };
 

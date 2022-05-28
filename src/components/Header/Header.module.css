@@ -50,6 +50,10 @@
   color: var(--first);
 }
 
+._revert {
+  color: var(--first-bright);
+}
+
 @media screen and (max-width: 61.25em) {
   .Header {
     flex-direction: column;

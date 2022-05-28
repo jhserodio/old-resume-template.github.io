@@ -16,6 +16,15 @@ import { jobs_enUS } from '../components/Jobs/intl.enUS';
 import { icon_enUS } from '../components/Icon/intl.enUS';
 
 const messages = Object.freeze({
+  'en': {
+    app: app_enUS,
+    logo: logo_enUS,
+    header: header_enUS,
+    resume: resume_enUS,
+    stack: stack_enUS,
+    jobs: jobs_enUS,
+    icon: icon_enUS,
+  },
   'en-US': {
     app: app_enUS,
     logo: logo_enUS,
@@ -24,6 +33,15 @@ const messages = Object.freeze({
     stack: stack_enUS,
     jobs: jobs_enUS,
     icon: icon_enUS,
+  },
+  'pt': {
+    app: app_ptBR,
+    logo: logo_ptBR,
+    header: header_ptBR,
+    resume: resume_ptBR,
+    stack: stack_ptBR,
+    jobs: jobs_ptBR,
+    icon: icon_ptBR,
   },
   'pt-BR': {
     app: app_ptBR,

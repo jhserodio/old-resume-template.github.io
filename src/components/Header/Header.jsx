@@ -6,6 +6,7 @@ import img from '../../img/eu.jpeg';
 import style from './Header.module.css';
 import { LINKS } from '../../constants/links';
 import { LTDA } from '../../constants/ltda';
+import { ME } from '../../constants/me';
 
 const Header = () => {
   const { formatMessage } = useIntl();
@@ -77,6 +78,15 @@ const Header = () => {
         <p className={style.text}>
           {formatMessage({
             id: 'header.bio.paragraph',
+          }, {
+            shaped: str => (
+              <a
+                className={`${style.link} ${style._revert}`}
+                href={LINKS[ME.SELF][ME.SHAPED]}
+                target='_blank'
+                rel="noopener noreferrer">
+                {str}
+              </a>)
           })}
         </p>
       </div>
