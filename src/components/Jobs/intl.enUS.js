@@ -5,14 +5,14 @@ const jobs_enUS = {
   [LTDA.PEDE_PRONTO]: {
     company: 'PEDE PRONTO',
     employ: 'Software Engineer Senior',
-    date: 'Starting June 2020 until May 2022',
+    date: 'Start June 2020 until May 2022',
     description:
       'I work with the analysis, architecture, and development of the PedePronto application. I worked in migration from a monolithic architecture to a microservice. I develop web client B2C (Business to Business) with React, Typescript, and GraphQL. I work as the Full stack developer of OnBoarding service B2B (Business to Business) for new clients with React, Typescript, RestFull, and Python backend services.',
   },
   [LTDA.VNATOR]: {
     company: 'VNATOR',
     employ: 'Software Archtect',
-    date: 'Started November 2018 to today',
+    date: 'Start November 2018 to today',
     description:
       'I make analysis, architecture, and implementation of an eCommerce platform for dingles, using the AWS cloud, with lambda service in NodeJS, exposing a Graphql API using Apollo Server, Aurora RDS PostgreSQL, CloudFormation for management and control, Cognito, AWS S3 for dynamic storage of platform contents, SPA React development, AWS EventBridge for event flow management, development of lambda layers for dependencies and ORM (Object Relation Model).',
   },
