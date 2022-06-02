@@ -10,9 +10,7 @@ const header_enUS = {
   },
   bio: {
     title: 'Bio',
-    paragraph:
-      `I'm a software developer generalist/specialist <shaped>(Pi Shaped professional Profile)</shaped>, with hard knowledges in Javascript and Functional Progamming, and softw skills in backend python, Java, Elixir and Rust. Nowasday i am study system architecture
-      for cloud-native applications with the intention of to refine my skills like as a full stack developer.  In 2007 i had my first contact with development with rpg maker, after this in 2008 i started at the Information System College (UCP), since then i work and study web development with frontend and backend in most products. My favorite languages today are Rust, elixir and Typescript (deno is lovely), and i want become a indispensable employed for any cloud-native product`,
+    paragraph: `I'm a software developer generalist/specialist (Pi Shaped professional Profile), with hard knowledge in Javascript and Functional Programming, and generalist skills in backend Python, Java, Elixir, and Rust. Today I am studying system architecture for cloud-native applications with the intention of refining my skills like a full stack developer. In 2007 I had my first contact with development in RPG maker (i did modules for my games =D), after this in 2008 I started at the Information System College (UCP), and since then I work and study web development with frontend and backend in most products. My favorite languages today are Rust, elixir, and Typescript (Deno is lovely), and I  become an indispensable employee for any cloud-native product.`,
   },
 };
 
