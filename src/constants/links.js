@@ -17,7 +17,8 @@ const LINKS = Object.freeze({
     [ME.GIT_HUB]: 'https://github.com/jhserodio',
     [ME.MEDIUM]: 'https://medium.com/@jhserodio',
     [ME.INSTAGRAM]: 'https://www.instagram.com/jhserodio/',
-    [ME.LINKEDIN]: 'https://www.linkedin.com/in/jo%C3%A3o-henrique-serodio-ulbinski/',
+    [ME.LINKEDIN]:
+      'https://www.linkedin.com/in/jo%C3%A3o-henrique-serodio-ulbinski/',
     [ME.SHAPED]: 'https://certibanks.com/KnowledgeArea.aspx?articleid=11',
   }),
   [OTHER_SKILLS]: Object.freeze({
@@ -45,10 +46,15 @@ const LINKS = Object.freeze({
     [STACK[OTHER_SKILLS].EMACS]: 'https://www.gnu.org/software/emacs/',
     [STACK[OTHER_SKILLS].ARCH]: 'https://www.archlinux.org/',
     [STACK[OTHER_SKILLS].JWT]: 'https://jwt.io/',
-    [STACK[OTHER_SKILLS].TDD]: 'https://en.wikipedia.org/wiki/Test-driven_development',
-    [STACK[OTHER_SKILLS].BDD]: 'https://en.wikipedia.org/wiki/Behavior-driven_development',
-    [STACK[OTHER_SKILLS].DDD]: 'https://en.wikipedia.org/wiki/Domain-driven_design',
-
+    [STACK[OTHER_SKILLS].TDD]:
+      'https://en.wikipedia.org/wiki/Test-driven_development',
+    [STACK[OTHER_SKILLS].BDD]:
+      'https://en.wikipedia.org/wiki/Behavior-driven_development',
+    [STACK[OTHER_SKILLS].DDD]:
+      'https://en.wikipedia.org/wiki/Domain-driven_design',
+    [STACK[OTHER_SKILLS].NEW_RELIC]: 'https://newrelic.com/',
+    [STACK[OTHER_SKILLS].SENTRY]: 'https://sentry.io/welcome/',
+    [STACK[OTHER_SKILLS].CLOUDWATCH]: 'https://aws.amazon.com/cloudwatch/',
   }),
   [BACKEND]: Object.freeze({
     [STACK[BACKEND].RUST]: 'https://www.rust-lang.org/',
@@ -69,13 +75,23 @@ const LINKS = Object.freeze({
     [STACK[BACKEND].MVC]: 'https://wikipedia.org/wiki/MVC',
     [STACK[BACKEND].OOP]:
       'https://en.wikipedia.org/wiki/Object-oriented_programming',
-    [STACK[BACKEND].FUNCTIONAL_PROGRAMING]: 'https://en.wikipedia.org/wiki/Functional_programming',
-    [STACK[BACKEND].FIREBASE_FUNCTIONS]: 'https://firebase.google.com/products/functions',
-    [STACK[BACKEND].FIREBASE_REALTIME_DATABASE]: 'https://firebase.google.com/products/realtime-database',
+    [STACK[BACKEND].FUNCTIONAL_PROGRAMING]:
+      'https://en.wikipedia.org/wiki/Functional_programming',
+    [STACK[BACKEND].FIREBASE_FUNCTIONS]:
+      'https://firebase.google.com/products/functions',
+    [STACK[BACKEND].FIREBASE_REALTIME_DATABASE]:
+      'https://firebase.google.com/products/realtime-database',
     [STACK[BACKEND].FIREBASE_AUTH]: 'https://firebase.google.com/products/auth',
-    [STACK[BACKEND].FIREBASE_HOSTING]: 'https://firebase.google.com/products/hosting',
+    [STACK[BACKEND].FIREBASE_HOSTING]:
+      'https://firebase.google.com/products/hosting',
     [STACK[BACKEND].APACHE_KAFKA]: 'https://kafka.apache.org/',
     [STACK[BACKEND].RABBIT_MQ]: 'https://www.rabbitmq.com/getstarted.html',
+    [STACK[BACKEND].NEST_JS]: 'https://nestjs.com/',
+    [STACK[BACKEND].LOOP_BACK]: 'https://loopback.io',
+    [STACK[BACKEND].TYPE_ORM]: 'https://typeorm.io',
+    [STACK[BACKEND].GOF_DESIG_PATTERS]:
+      'https://refactoring.guru/design-patterns',
+    [STACK[BACKEND].SOLID]: 'https://en.wikipedia.org/wiki/SOLID',
   }),
   [FRONTEND]: Object.freeze({
     [STACK[FRONTEND].ES2015]:
@@ -96,10 +112,21 @@ const LINKS = Object.freeze({
     [STACK[FRONTEND].NPM]: 'https://www.npmjs.com/',
     [STACK[FRONTEND].YARN]: 'https://yarnpkg.com',
     [STACK[FRONTEND].APOLLO]: 'https://www.apollographql.com/docs/react/',
-    [STACK[FRONTEND].PWA]: 'https://developers.google.com/web/progressive-web-apps/',
+    [STACK[FRONTEND].PWA]:
+      'https://developers.google.com/web/progressive-web-apps/',
     [STACK[FRONTEND].MATERIAL_DESIGN]: 'https://mui.com',
-    [STACK[FRONTEND].WEB_WORKERS]: 'https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API',
-    [STACK[FRONTEND].WEB_SOCKETS]: 'https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API',
+    [STACK[FRONTEND].WEB_WORKERS]:
+      'https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API',
+    [STACK[FRONTEND].WEB_SOCKETS]:
+      'https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API',
+    [STACK[FRONTEND].CHROME_EXTENSION]:
+      'https://developer.chrome.com/docs/extensions/',
+    [STACK[FRONTEND].FIREFOX_ADDON]:
+      'https://addons.mozilla.org/en-US/developers/',
+    [STACK[FRONTEND].TURBO_PACK]: 'https://turbo.build/pack',
+    [STACK[FRONTEND].TURBO_REPO]: 'https://turbo.build/repo',
+    [STACK[FRONTEND].REDUX_TOOL_KIT]: 'https://redux-toolkit.js.org/',
+    [STACK[FRONTEND].TESTING_LIBRARY]: 'https://testing-library.com/',
   }),
 });
 

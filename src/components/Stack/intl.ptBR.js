@@ -35,6 +35,9 @@ const stack_ptBR = {
     [STACK[OTHER_SKILLS].TDD]: 'TDD (Testing Driven Development)',
     [STACK[OTHER_SKILLS].BDD]: 'BDD (Behavior Driven Development)',
     [STACK[OTHER_SKILLS].DDD]: 'DDD (Domain Driven Design)',
+    [STACK[OTHER_SKILLS].NEW_RELIC]: 'New Relic',
+    [STACK[OTHER_SKILLS].SENTRY]: 'Sentry',
+    [STACK[OTHER_SKILLS].CLOUDWATCH]: 'Cloudwatch',
   },
   [BACKEND]: {
     title: 'knowledges( backend ) {',
@@ -62,6 +65,11 @@ const stack_ptBR = {
     [STACK[BACKEND].FIREBASE_HOSTING]: 'Firebase Hosting',
     [STACK[BACKEND].APACHE_KAFKA]: 'Apache Kafka',
     [STACK[BACKEND].RABBIT_MQ]: 'Rabbit Mq',
+    [STACK[BACKEND].NEST_JS]: 'NestJS',
+    [STACK[BACKEND].LOOP_BACK]: 'Loopback',
+    [STACK[BACKEND].TYPE_ORM]: 'TypeORM',
+    [STACK[BACKEND].GOF_DESIG_PATTERS]: 'Gang Of Four Design Patterns',
+    [STACK[BACKEND].SOLID]: 'SOLID Principles',
   },
   [FRONTEND]: {
     title: 'knowledges( frontend ) {',
@@ -87,6 +95,14 @@ const stack_ptBR = {
     [STACK[FRONTEND].MATERIAL_DESIGN]: 'Material Design',
     [STACK[FRONTEND].WEB_SOCKETS]: 'Web Sockets',
     [STACK[FRONTEND].WEB_WORKERS]: 'Web Workers',
+    [STACK[FRONTEND].NEXT_JS]: 'NEXT React Server Side Rendering',
+    [STACK[FRONTEND].REDUX_TOOL_KIT]:
+      'Redux ToolKit (State manange and data fetch)',
+    [STACK[FRONTEND].TESTING_LIBRARY]: 'Testing Library',
+    [STACK[FRONTEND].CHROME_EXTENSION]: 'Chrome Extension development',
+    [STACK[FRONTEND].FIREFOX_ADDON]: 'Firefox Addon development',
+    [STACK[FRONTEND].TURBO_PACK]: 'Turbo pack',
+    [STACK[FRONTEND].TURBO_REPO]: 'Turbo Repo',
   },
 };
 
