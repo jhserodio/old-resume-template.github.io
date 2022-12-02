@@ -15,10 +15,10 @@ import { App } from './App/App';
 import './index.css';
 
 const locale =
-  navigator.language ||
-  navigator.userLanguage ||
-  (navigator.languages && navigator.languages[0]) ||
-  'pt-BR';
+  // navigator.language ||
+  // navigator.userLanguage ||
+  // (navigator.languages && navigator.languages[0]) ||
+  'en-US';
 
 ReactDOM.render(
   <IntlProvider locale={locale} messages={flattenMessages(messages[locale])}>

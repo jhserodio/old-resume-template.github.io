@@ -2,11 +2,11 @@ const header_ptBR = {
   name: 'Joao Henrique Serodio',
   info: {
     email: 'joao.serodio@vnator.com',
-    location: 'Laranjal - PR',
+    location: 'Curitiba - PR',
     formation:
       '<strong>Formacao:</strong> Sistemas de informação - UCP (Pitanga - PR) - 2008/2012',
     employ:
-      '<strong>Ocupacao:</strong> Software Crafter at <company>VNATOR</company>',
+      '<strong>Ocupacao:</strong> Senior Software Engineering at <company>VNATOR</company>',
   },
   bio: {
     title: 'Bio',

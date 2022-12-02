@@ -2,11 +2,11 @@ const header_enUS = {
   name: 'Joao Henrique Serodio',
   info: {
     email: 'joao.serodio@vnator.com',
-    location: 'Laranjal City in State of Parana - Brazil',
+    location: 'Curitiba City in State of Parana - Brazil',
     formation:
       '<strong>Academic Education:</strong> Information System College at UCP (Brazil in State of Parana) - 2008/2012',
     employ:
-      '<strong>Employ:</strong> Software Crafter at <company>VNATOR</company>',
+      '<strong>Employ:</strong> Senior Software Engineering at <company>VNATOR</company>',
   },
   bio: {
     title: 'Bio',

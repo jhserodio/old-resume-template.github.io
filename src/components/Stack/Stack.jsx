@@ -31,7 +31,7 @@ const Stack = () => {
             <ul className={style.list}>
               {Object.values(STACK[skill]).map(tech => (
                 <li key={tech} className={style.tech}>
-                  <a href={LINKS[skill][tech]}>
+                  <a href={LINKS[skill][tech]} target="blanc">
                     {formatMessage({
                       id: `stack.${skill}.${tech}`,
                     })}
