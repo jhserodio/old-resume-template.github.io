@@ -9,6 +9,13 @@ const jobs_ptBR = {
     description:
       'Análise, Arquitetura e Desenvolvimento da aplicação pede pronto. Atuei no desenvolvimento e manutenabilidade da solução e participei da migração da arquitetura de monolito para pulverização em micro-serviços, implementei o client web focado em B2C (Business to Busines), e o serviço de onboarding para entrada de novos clientes no domínio de onBoarding do backend e frontend no B2B (Business to Business)',
   },
+  [LTDA.KOVI]: {
+    company: 'KOVI',
+    employ: 'Backendk Software Engineer Senior',
+    date: 'Start May 2022 until December 2022',
+    description:
+      'Desenvolvedor Backend NodeJS(typescript), Análise e desenvolvimento de serverless function e lambda pipelines em NestJS e Express para um produto focado em aluguel e compra de veículos remotamente.',
+  },
   [LTDA.VNATOR]: {
     company: 'VNATOR',
     employ: 'Software Archtect',

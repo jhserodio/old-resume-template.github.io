@@ -2,6 +2,13 @@ import { LTDA } from '../../constants/ltda';
 
 const jobs_enUS = {
   title: 'Work experience',
+  [LTDA.KOVI]: {
+    company: 'KOVI',
+    employ: 'Backendk Software Engineer Senior',
+    date: 'Start May 2022 until December 2022',
+    description:
+      'Backend NodeJS(typescript) developer, Analysis and development of serverless lambda and pipeline functions in NestJS and Express for a product focused on renting and purchasing vehicles remotely.Backend NodeJS(typescript) developer, Analysis and development of serverless lambda and pipeline functions in NestJS and Express for a product focused on renting and purchasing vehicles remotely.',
+  },
   [LTDA.PEDE_PRONTO]: {
     company: 'PEDE PRONTO',
     employ: 'Software Engineer Senior',
