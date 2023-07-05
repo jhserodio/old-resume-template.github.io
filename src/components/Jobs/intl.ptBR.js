@@ -2,6 +2,13 @@ import { LTDA } from '../../constants/ltda';
 
 const jobs_ptBR = {
   title: 'Work experience',
+  [LTDA.PAGARME]: {
+    company: 'PAGAR.ME',
+    employ: 'Staff Software Engineer',
+    date: 'Início em dezembro de 2022 ate o momento',
+    description:
+      'Análise, arquitetura e desenvolvimento da plataforma microfrontend de dashboard PAGAR.ME. Desenvolvimento de novas funcionalidades e manutenção das soluções existentes, com migração dos produtos para um padrão de desenvolvimento baseado em microfronends com Typescript, React e Redux, consumindo APIs BFF. ',
+  },
   [LTDA.PEDE_PRONTO]: {
     company: 'PEDE PRONTO',
     employ: 'Software Engineer Senior',

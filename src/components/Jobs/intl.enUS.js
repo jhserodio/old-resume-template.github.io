@@ -2,6 +2,13 @@ import { LTDA } from '../../constants/ltda';
 
 const jobs_enUS = {
   title: 'Work experience',
+  [LTDA.PAGARME]: {
+    company: 'PAGAR.ME',
+    employ: 'Staff Software Engineer',
+    date: 'Start December de 2022 to today',
+    description:
+      'Analysis, architecture and development of PAGAR.ME(finance) dashboard microfrontend platform. Development of new features and maintenance of existing solutions, migrating products to a development pattern based on microfronends with Typescript, React and Redux, consuming BFF APIs.',
+  },
   [LTDA.KOVI]: {
     company: 'KOVI',
     employ: 'Backendk Software Engineer Senior',
